@@ -1,5 +1,12 @@
-body{
-  background: coral;
+.background{
+  background-image: url("https://i.pinimg.com/originals/a2/4e/29/a24e29fc5ee1ef69ab11777f1d28641a.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+h1{
+  color: white;
+  text-shadow: 2px 2px black
 }
 .rubber{
   position: fixed;
